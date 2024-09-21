@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 832px;
+    height: 832px;
+    gap: 0px;
+}
+
+.square {
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+.color {
+    border: 1px solid white;
+    height: 50px;
+    width: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
